@@ -1,2 +1,2 @@
 # Thom-BOT
-Un bot de telegram
+Un bot de telegram (en construccion)
